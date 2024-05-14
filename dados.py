@@ -1,5 +1,6 @@
 import sqlite3
 
+
 #Criar ou contectar ao banco de dados
 con = sqlite3.connect('biblioteca.db')
 #cursor = con.cursor
